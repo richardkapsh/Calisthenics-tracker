@@ -28,24 +28,24 @@ Tools: Virtual environment
 - How to Run (on Linux)
 
 1. Clone this repository:
-```bash
+
 git clone https://github.com/richardkapsh/Calisthenics-tracker
 
 2. Change to its directory
-```bash
+
 cd Calisthenics-tracker
 
 3. Create a virtual environment
-```bash
+
 python3 -m venv venv
 source venv/bin/activate
 
 4. Install dependencies
-```bash
+
 pip install -r requirements.txt
 
 5. Start the server
-```bash
+
 python3 server.py
 
 6. Open the frontend
